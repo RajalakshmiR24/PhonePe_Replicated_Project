@@ -1,0 +1,99 @@
+name: phonepe_replicte
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^3.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/4.png
+    - assets/5.png
+    - assets/6.png
+    - assets/7.png
+    - assets/8.png
+    - assets/Bajaj.png
+    - assets/banner1.png
+    - assets/barcode.png
+    - assets/card.png
+    - assets/Check.png
+    - assets/Dth 2.png
+    - assets/Electricity 3.png
+    - assets/flutter_bird.jpg
+    - assets/History.png
+    - assets/Home.png
+    - assets/image 8.png
+    - assets/indian flag.png
+    - assets/Insurance.png
+    - assets/king.png
+    - assets/Mobile Recharge 1.png
+    - assets/Notification.png
+    - assets/Phone_pe_wallet.png
+    - assets/Profile pic.png
+    - assets/refer_and_get.png
+    - assets/Rewards.png
+    - assets/Stores.png
+    - assets/tax.png
+    - assets/To Bank UPI ID.png
+    - assets/To Mobile Number.png
+    - assets/To Self Account (2).png
+    - assets/Vector.png
+    - assets/Wealth.png
+    - assets/image 7.png
+    - assets/Frame.png
+    - assets/anounce.png
+    - assets/ads.png
+    - assets/ads1.png
+    - assets/ads2.png
+    - assets/ads3.png
