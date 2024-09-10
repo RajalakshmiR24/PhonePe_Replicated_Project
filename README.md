@@ -27,8 +27,8 @@ Note: This project does not include backend integration or state management. All
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/phonepe_clone_flutter.git
-   cd phonepe_clone_flutter
+   git clone https://github.com/RajalakshmiR24/PhonePe_Replicated_Project.git
+   cd PhonePe_Replicated_Project
    ```
 
 2. **Install dependencies**
